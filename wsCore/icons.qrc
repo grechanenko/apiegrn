@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon32.png</file>
+        <file>Resources/ribbonMaximize.png</file>
+        <file>Resources/ribbonMinimize.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/23-512.png</file>
+        <file>Resources/checkUpdate.png</file>
+        <file>Resources/Download-icon.jpg</file>
+        <file>Resources/update.png</file>
+        <file>Resources/update_old.png</file>
+    </qresource>
+</RCC>
