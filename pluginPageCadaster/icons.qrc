@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/searchPackage.png</file>
+        <file>Resources/searchSingle.png</file>
+    </qresource>
+</RCC>
